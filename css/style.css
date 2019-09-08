@@ -1382,11 +1382,16 @@ section.style2 {
 
 #mainvenue li, .skel-layers-moved #mainvenue li {
     display: block;
-    width: 100%;
+    width: 85%;
     line-height: 1.5em;
     padding: .5em;
     background-color: var(--medium-shade-text);
     border-top: 1px solid var(--accent-color);
+}
+
+.skel-layers-moved #mainvenue li {
+    background-color: var(--light-text);
+    border-top-color: #ccc;
 }
 
 #navPanel .skel-layers-moved #mainvenue li a {

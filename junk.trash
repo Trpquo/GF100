@@ -1,0 +1,178 @@
+<section id="one" class="wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="3u 12u(small)" align="center">
+                <span class="fa-stack fa-5x">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-bullhorn fa-stack-1x fa-inverse"></i>
+                </span>
+
+            </div>
+            <div class="9u$ 12u$(small)">
+            <header>
+                    <h2>Invitation to Participants</h2>
+                    <p>It is our great pleasure to invite you to take part in the scientific symposium <strong>FUTURE TRENDS IN CIVIL ENGINEERING</strong> that is will be held on <strong>17<sup>th</sup> October 2019</strong> at the University of Zagreb Faculty of Civil Engineering, on the occasion of the <i>100<sup>th</sup> anniversary of the Faculty of Civil Engineering of the University of Zagreb</i>.</p> <p>On 16<sup>th</sup> October this year the Faculty of Civil Engineering - Zagreb celebrates its 100th anniversary and, to mark this significant event, the Faculty is organising a number of activities, one of which is this Symposium.</p>
+                    <p>The lectures to be presented at the Symposium will concern the fields that are a part of the Faculty’s activities: geotechnical engineering, water engineering, structural engineering, construction materials, construction management, transport infrastructures, engineering mechanics, building design and applied mathematics. At this gathering, each field will be represented by one foreign lecturer with international repute and one domestic lecturer. Foreign lecturers come from nine countries (Germany, Czech Republic, Portugal, Italy, Slovenia, Austria, the Netherlands, South Africa, UK) while domestic lectures originate mainly from the Faculty of Civil Engineering in Zagreb. All lectures presented at the symposium will be fully published in the symposium proceeding.</p>
+            </header>		
+            </div>	
+        </div>						
+    </div>
+    </div>
+</section>
+
+
+
+
+
+<section id="onenobanner" class="wrapper style2 special">
+    <div class="container">
+        <header class="major">
+            <h2>Organizing Committee</h2>
+        </header>
+        <section class="profiles">
+        
+            <div class="row">
+                <div class="4u 12u$(xsmall) profile">
+                    <div class="frame">	
+                <!--img src="images/org/lakusic.jpg" alt="" width="125px" /-->
+                    <h4>Assoc. Prof. Ana Mandić Ivanković</h4>
+                    <p>Vice Dean for International and Inter-institutional Cooperation </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="4u 12u$(xsmall) profile">
+                    <div class="frame">	
+                    <!--img src="images/org/kovacevic.jpg" alt="" width="125px" /-->
+                    <h4>Assist. Prof. Mario Bačić</h4>
+                    <p>Department for Geotechnical Engineering </p>
+                    </div>
+                </div>
+                <div class="4u  12u$(xsmall) profile">
+                    <div class="frame">	
+                    <!--img src="images/org/carevic.jpg" alt="" width="125px" /-->
+                    <h4>Assist. Prof. Damir Bekić</h4>
+                    <p>Department for Water Research</p>
+                    </div>
+                </div>
+                <div class="4u$  12u$(xsmall) profile">
+                    <div class="frame">	
+                    <!--img src="images/org/mandic.jpg" alt="" width="125px" /-->
+                    <h4>Prof. Vlatka Rajčić</h4>
+                    <p>Department for Structures</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="4u  12u$(xsmall) profile">
+                    <div class="frame">
+                    <!--img src="images/org/gorjanc.gif" alt="" width="125px" /-->
+                    <h4>Assist. Prof. Ana Kristina Škreb</h4>
+                    <p>Department for Mathematics</p>
+                    </div>
+                </div>
+                <div class="4u  12u$(xsmall) profile">
+                    <div class="frame">	
+                    <!--img src="images/org/banjad.jpg" alt="" width="125px" /-->
+                    <h4>Prof. Ivana Banjad Pečur</h4>
+                    <p>Department for Materials</p>
+                    </div>
+                </div>
+                <div class="4u  12u$(xsmall) profile">
+                <div class="frame">	
+                    <!--img src="images/org/ceric.jpg" alt="" width="125px" /-->
+                    <h4>Assoc. Prof. Mladen Vukomanović</h4>
+                    <p>Department for Construction Management</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="4u  12u$(xsmall) profile">
+                    <div class="frame">	
+                    <!--img src="images/org/rukavina.jpg" alt="" width="125px" /-->
+                    <h4>Tamara Džambas PhD</h4>
+                    <p>Department for Transportation Engineering</p>
+                    </div>
+                </div>
+                <div class="4u  12u$(xsmall) profile">
+                    <div class="frame">	
+                    <!--img src="images/org/damjanovic.jpg" alt="" width="125px" /-->
+                    <h4>Assist. Prof. Mario Uroš</h4>
+                    <p>Department for Engineering Mechanics</p>
+                    </div>
+                </div>
+                <div class="4u  12u$(xsmall) profile">
+                    <div class="frame">	
+                    <!--img src="images/org/basic.jpg" alt="" width="125px" /-->
+                    <h4>Marinko Sladoljev, lect.</h4>
+                    <p>Independent Chair for Buildings</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="4u  12u$(xsmall) profile">
+                    <div class="frame">	
+                    <!--img src="images/org/rukavina.jpg" alt="" width="125px" /-->
+                    <h4>Assist. Prof. Gordon Gilja</h4>
+                    <p>ECTS coordinator</p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </div>
+</section>
+<section id="onenobanner" class="wrapper style1 special">
+    <div class="container">
+        <header class="major">
+            <h2>Scientific Committee</h2>
+        </header>
+        <section class="profiles">
+        
+
+            </section>
+    </div>
+</section>
+<section id="contact" class="wrapper style3">
+    <div class="container">
+        <header class="major">
+            <h2>Symposioum secretariat</h2>
+        </header>
+        <div class="row">
+        <div class="5u 12u$(small)">
+                    <h2>Contact</h2>
+                    <i class="fa fa-address-card fa-5x fa-inverse" aria-hidden="true"></i>
+                    <p><strong>Ana Mandić Ivanković</strong><br>
+                    University of Zagreb<br>
+                    Faculty of Civil Engineering<br>
+                    Kačićeva 26, 10 000 Zagreb, CROATIA<br>
+                    <i class="fa fa-phone-square" aria-hidden="true"></i> +385 (0)1 4639 149<br>
+                    <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:mandicka@grad.hr">mandicka@grad.hr</a></p>
+        </div>
+        <div class="7u$ 12u$(small)">
+            <div class="container 50%">
+            <h2>Send inquiry</h2>
+                <form action="sendMail.php" method="post">
+                    <div class="row uniform">
+                        <div class="6u 12u$(small)">
+                            <input name="name" id="name" value="" placeholder="Name" type="text">
+                        </div>
+                        <div class="6u$ 12u$(small)">
+                            <input name="email" id="email" value="" placeholder="Email" type="email">
+                        </div>
+                        <div class="12u$">
+                            <textarea name="message" id="message" placeholder="Inquiry" rows="6"></textarea>
+                        </div>
+                        <div class="12u$">
+                            <ul class="actions">
+                                <li><input value="Submit" class="big" type="submit"></li>
+                            </ul>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        </div>
+    </div>
+</section>

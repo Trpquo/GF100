@@ -75,6 +75,7 @@ p {
     font-size: 1.1em;
     margin: 0 0 2em 0;
     color: var(--dark-text);
+    text-align: left;
 }
 
 h1,
